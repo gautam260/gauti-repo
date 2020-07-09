@@ -2,3 +2,7 @@ line 3 added to file
 line 4 added to file
 line 2 added to file
 line 3 added to file
+line 7 added to file
+line 8 added to file
+line 9 added to file
+line 10 added to file
